@@ -26,8 +26,8 @@ Borchers, C., Yang, K., Lin, J., Rummel, N., Koedinger, K. R., & Aleven, V. (202
 First, open the three CMU Datashop dataset webpages in your browser.
 
 https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=5153
-https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=5549
-https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=5604
+<br>https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=5549
+<br>https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=5604
 
 To access the datasets, you will need to request access with an account on DataShop. You can create an account using your Google or GitHub account, whichever is easiest.
 

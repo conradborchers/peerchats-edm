@@ -1,6 +1,6 @@
 # Instructional Factors Analysis of Peer Tutoring Chat Messages
 
-Supplementary repository of the full paper "Understanding Learning in Collaborative Tutoring Systems via Instructional Factors Analysis of Peer Tutoring Chats" accepted at EDM '24.
+Supplementary repository of the full paper "Learning Rates in Collaborative Tutoring Systems by Peer Tutoring Chat Types" accepted at EDM '24.
 
 Citation:
 

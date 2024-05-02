@@ -1,14 +1,14 @@
 # Instructional Factors Analysis of Peer Tutoring Chat Messages
 
-Supplementary repository of the full paper "Learning Rates in Collaborative Tutoring Systems by Peer Tutoring Chat Types" accepted at EDM '24.
+Supplementary repository of the full paper "Combining Dialog Acts and Skill Modeling: What Chat Interactions Enhance Learning Rates During AI-Supported Peer Tutoring?" accepted at EDM '24.
 
 Citation:
 
-Borchers, C., Yang, K., Lin, J., Rummel, N., Koedinger, K. R., & Aleven, V. (2024). Learning Rates in Collaborative Tutoring Systems by Peer Tutoring Chat Types. In *Proceedings of the 17th International Conference on Educational Data Mining (EDM)*. Atlanta, GA, USA.
+Borchers, C., Yang, K., Lin, J., Rummel, N., Koedinger, K. R., & Aleven, V. (2024). Combining Dialog Acts and Skill Modeling: What Chat Interactions Enhance Learning Rates During AI-Supported Peer Tutoring? In *Proceedings of the 17th International Conference on Educational Data Mining (EDM)*. Atlanta, GA, USA.
 
 ```
 @inproceedings{borchers2024learning,
-  title={Learning Rates in Collaborative Tutoring Systems by Peer Tutoring Chat Types},
+  title={Combining Dialog Acts and Skill Modeling: What Chat Interactions Enhance Learning Rates During AI-Supported Peer Tutoring?},
   author={Borchers, Conrad and Yang, Kexin and Lin, Jionghao and Rummel, Nikol and Koedinger, Kenneth R. and Aleven, Vincent},
   booktitle={Proceedings of the 17th International Conference on Educational Data Mining},
   year={2024}
@@ -41,3 +41,6 @@ You should then rename the three files to
 
 to get started. The specific order of these three files does not matter.
 
+Finally you will need to download `cleaned-apta-codings.csv` through the link below, which includes the training data for dialog act classification:
+
+https://pslcdatashop.web.cmu.edu/Files?datasetId=5604
